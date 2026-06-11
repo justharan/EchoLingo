@@ -1,0 +1,6 @@
+{
+  "name": "Echo Lingo",
+  "description": "Translate the World Instantly with AI. Break language barriers with intelligent translation and speech conversion powered by modern AI technology.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
